@@ -7,7 +7,7 @@
 #### Who Am I ? : 
 
 ```bash
-Hi ! My name is Hadrien and i am a french developer and student in infosec 😁
+Hi ! My name is Hadrien, I am a french developer and student in infosec 😁
 I'm in love with bash and the airpods ❤️
 ```
 
