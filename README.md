@@ -1,11 +1,9 @@
 ### Welcome Everyone ! 👋🏻
-![Twitter Follow](https://img.shields.io/twitter/follow/hadrienaka?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/hadrienaka?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-000000.svg?&style=flat-square&logo=Brave&logoColor=red&link=https://hadrienaka.fr/)](https://hadrienaka.fr/)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hadrienaka?label=%40HadrienAka&logo=twitter&logoColor=ffffff&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/hadrienaka?color=9F9F9F&label=%40HadrienAka&logo=github&style=for-the-badge)
+![Website](https://img.shields.io/website?color=9F9F9F&label=Hadrienaka.fr&logo=brave&logoColor=ffffff&style=for-the-badge&up_message=SEE&url=https%3A%2F%2Fhadrienaka.fr)
 #### Who Am I ? : 
 
 ```bash
