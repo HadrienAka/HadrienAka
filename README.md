@@ -13,6 +13,7 @@ I'm in love with bash and the airpods ❤️
 #### Contact me here : 
 ```bash
 ✉️ hadrienaka@protonmail.com
+Telegram: @HadrienAka
 ```
 
 
