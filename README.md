@@ -8,11 +8,11 @@
 #### Who Am I ? : 
 
 ```bash
-Hi ! My name is Hadrien, I'm a french developer and student in infosec 😁
-I'm in love with bash and the airpods ❤️
+Hi ! My name is Hadrien, I'm a french developer 😁
+I'm in love with bash,the airpods and the infosec ❤️
 ```
 
-#### Contact me here : 
+#### You Can Contact me here : 
 ```bash
 ✉️ hadrienaka@protonmail.com
 Telegram: @HadrienAka
