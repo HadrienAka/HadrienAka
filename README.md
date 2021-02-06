@@ -20,5 +20,10 @@
 Telegram: @HadrienAka
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadrienaka&repo=TheBashMenu&theme=dark)](https://github.com/hadrienaka/thebashmenu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadrienaka&repo=todolist&theme=dark)](https://github.com/hadrienaka/todolist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadrienaka&repo=Lock&theme=dark)](https://github.com/hadrienaka/lock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadrienaka&repo=googledorks&theme=dark)](https://github.com/hadrienaka/googledorks)
+
 
 
